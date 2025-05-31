@@ -30,8 +30,8 @@ except ImportError as e:
 GEMINI_API_KEY = "AIzaSyDEKsW0GhR5pBHBcDVDz3xZSfZD1lkAvVM" # Your Gemini API Key
 
 # --- Facebook API Configuration ---
-FB_ACCESS_TOKEN = 'EAAPPMNJb8NUBO8YTimpZCZCz6tZAB8YE9XIZCaVchgZB3P7S80lLXZBO36fMJ0LLLrqJ1hzwOaH5QlNFurYZAbnTTZClPUNgW0avZB1vy72S5HSDWhHmYcrTaQQt3mGfYGNIdPEOPUZBduQ1Xkmg5HdnJDH8bmnyT2AfG9PUowBspSCxxJIBQ7JJoaZBEWeGXUQAeeZC'
-FB_PAGE_ID = '603045946225330'
+FB_ACCESS_TOKEN = 'EAAPP... Your actual facebook access token'
+FB_PAGE_ID = 'Your public Page ID'
 
 # --- Video Generation Configuration ---
 VIDEO_WIDTH = 1080
